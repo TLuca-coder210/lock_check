@@ -1,0 +1,9 @@
+*.dylib
+*.so
+*.o
+*.out
+test_victim
+CycleDetectionDeadLock
+*.log
+.DS_Store
+*.dSYM/
